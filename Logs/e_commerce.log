@@ -1,0 +1,80 @@
+INFO:2022-03-21 18:16:26,026:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7f33eef2f130; closed: 0> <connection object at 0x7f33eef24180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:16:26,031:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:16:26,031:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:17:08,057:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7f5df9885130; closed: 0> <connection object at 0x7f5df987b180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:17:08,063:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:17:08,063:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:17:49,204:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7f552f2d6130; closed: 0> <connection object at 0x7f552f2cc180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:17:49,208:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:17:49,208:source_code.api.settings:connection to LMOS closed successfully
+ERROR:2022-03-21 18:17:49,209:source_code.api.secOps.admin_apis.gitclone_api:Required Parameter 'PATH_TO_GITHUB_APP_KEY' missing
+INFO:2022-03-21 18:18:31,656:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7ff235a14130; closed: 0> <connection object at 0x7ff235a09180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:18:31,660:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:18:31,660:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:20:57,416:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7ff259532130; closed: 0> <connection object at 0x7ff259528180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:20:57,419:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:20:57,419:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:22:02,685:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7fd09d16f130; closed: 0> <connection object at 0x7fd09d164180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:22:02,690:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:22:02,690:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:26:20,289:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7f5525254130; closed: 0> <connection object at 0x7f552524a180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:26:20,294:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:26:20,294:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:28:42,312:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7f92c3858130; closed: 0> <connection object at 0x7f92c384e180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:28:42,317:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:28:42,317:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:29:49,214:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7fed39baa130; closed: 0> <connection object at 0x7fed39b9f180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:29:49,218:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:29:49,218:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:32:03,078:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7f5fdffe4130; closed: 0> <connection object at 0x7f5fdffd9180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:32:03,085:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:32:03,085:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:34:40,449:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7fb5507ed130; closed: 0> <connection object at 0x7fb5507e2180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:34:40,455:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:34:40,455:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:36:15,676:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7fec6f6d5130; closed: 0> <connection object at 0x7fec6f6ca180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:36:15,681:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:36:15,681:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:36:48,535:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7f39848ac130; closed: 0> <connection object at 0x7f39848a1180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:36:48,539:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:36:48,539:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:37:02,640:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7ffbfaf19130; closed: 0> <connection object at 0x7ffbfaf0f180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:37:02,645:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:37:02,645:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:37:31,854:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7f4f357d2130; closed: 0> <connection object at 0x7f4f357c8180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:37:31,859:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:37:31,859:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:40:04,484:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7f167ff5e130; closed: 0> <connection object at 0x7f167ff54180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:40:04,488:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:40:04,488:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:40:19,791:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7fb8c238a130; closed: 0> <connection object at 0x7fb8c237f180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-21 18:40:19,795:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-21 18:40:19,795:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-22 12:09:46,153:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7f3c82162130; closed: 0> <connection object at 0x7f3c82158180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-22 12:09:46,158:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-22 12:09:46,158:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-22 16:10:35,273:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7f974a23a130; closed: 0> <connection object at 0x7f974a22f180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-22 16:10:35,281:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-22 16:10:35,281:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-22 16:11:50,343:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7f4e5868cc70; closed: 0> <connection object at 0x7f4e586f8900; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-22 16:11:50,348:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-22 16:11:50,348:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-22 16:12:22,399:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7fd4a3343c70; closed: 0> <connection object at 0x7fd4a33ae900; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-22 16:12:22,405:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-22 16:12:22,405:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-22 16:14:00,752:source_code.api.settings:connection to Auth schema established successfully <cursor object at 0x7fb220fc7130; closed: 0> <connection object at 0x7fb220fbd180; dsn: 'user=sc_auth_user password=xxx dbname=bdopcfl host=172.16.1.240 port=32442', closed: 0>
+INFO:2022-03-22 16:14:00,757:source_code.api.settings:connection to LMOS closed successfully
+INFO:2022-03-22 16:14:00,757:source_code.api.settings:connection to LMOS closed successfully
+ERROR:2022-03-23 11:33:16,090:source_code.api.secOps.admin_apis.gitclone_api:Required Parameter 'check_suite' missing
+ERROR:2022-03-23 11:47:22,181:source_code.api.secOps.admin_apis.gitclone_api:Required Parameter 'check_suite' missing
+ERROR:2022-03-23 11:50:23,226:source_code.api.secOps.admin_apis.gitclone_api:Required Parameter 'check_suite' missing
+ERROR:2022-03-23 11:53:28,985:source_code.api.secOps.admin_apis.gitclone_api:Required Parameter 'check_suite' missing
+ERROR:2022-03-23 12:02:25,161:source_code.api.secOps.admin_apis.gitclone_api:'dict' object has no attribute 'text'
+ERROR:2022-03-23 12:02:26,137:source_code.api.secOps.admin_apis.gitclone_api:'dict' object has no attribute 'text'
+ERROR:2022-03-23 12:02:26,137:source_code.api.secOps.admin_apis.gitclone_api:'dict' object has no attribute 'text'
+ERROR:2022-03-23 12:02:26,137:source_code.api.secOps.admin_apis.gitclone_api:'dict' object has no attribute 'text'
+ERROR:2022-03-23 12:02:26,137:source_code.api.secOps.admin_apis.gitclone_api:'dict' object has no attribute 'text'
+ERROR:2022-03-23 12:02:26,137:source_code.api.secOps.admin_apis.gitclone_api:'dict' object has no attribute 'text'
+ERROR:2022-03-23 12:02:26,137:source_code.api.secOps.admin_apis.gitclone_api:'dict' object has no attribute 'text'
+ERROR:2022-03-24 11:36:34,096:source_code.api.secOps.admin_apis.gitclone_api:'NoneType' object has no attribute 'get'
+ERROR:2022-03-24 11:37:03,737:source_code.api.secOps.admin_apis.gitclone_api:'NoneType' object has no attribute 'get'

@@ -1,0 +1,8 @@
+
+Vpython:S35167"9Refactor this method to not always return the same value.(ν€Σ¦ώÿÿÿÿ
+Qpython:S3516W"9Refactor this method to not always return the same value.(ζω΅
+Vpython:S3516w"9Refactor this method to not always return the same value.(άΙ®ώÿÿÿÿ
+>python:S1481β"%Remove the unused local variable "e".(—νήµ
+ppython:S5713β"WRemove this redundant Exception class; it derives from another which is already caught.(—νήµ
+Wpython:S1143λ"9Remove this "return" statement from this "finally" block.(‹ρΘΊϋÿÿÿÿ
+Rpython:S1143ν"9Remove this "return" statement from this "finally" block.(½•

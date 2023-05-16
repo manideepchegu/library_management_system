@@ -1,0 +1,4 @@
+WARNING:2023-05-16 16:48:53,613:library.source_code.api.library_management.functional_apis.books_available:starting the database connection
+WARNING:2023-05-16 16:48:53,745:library.source_code.api.library_management.functional_apis.books_available:close the database connection
+WARNING:2023-05-16 16:48:53,745:library.source_code.api.library_management.functional_apis.books_available:close the database connection
+WARNING:2023-05-16 16:48:53,745:library.source_code.api.library_management.functional_apis.books_available:close the database connection
